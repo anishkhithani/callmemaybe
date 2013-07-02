@@ -1,0 +1,11 @@
+.video{
+  width: 50%;
+  height: 50%%;
+  border: 1px solid black;
+  /*margin: 0 auto;*/
+}
+
+button{
+  width: 100px;
+  color: red;
+}
